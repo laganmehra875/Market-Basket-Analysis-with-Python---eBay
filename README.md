@@ -89,3 +89,18 @@ This analysis aims to support data-driven decision-making for marketing, product
 - Suggest complementary products
 - Promote frequently bought together items
 ##### *This can increase revenue per transaction.*
+
+## 🏁 Conclusion
+The analysis reveals that customer purchasing behavior is influenced by:
+
+- Product category preferences
+- Shipping cost sensitivity
+- Moderate satisfaction levels
+- Trust in reviews and recommendations
+  
+By improving shipping policies, personalization strategies, and customer segmentation approaches, eBay can:
+
+- Increase customer retention
+- Reduce cart abandonment
+- Improve satisfaction
+- Boost overall revenue
