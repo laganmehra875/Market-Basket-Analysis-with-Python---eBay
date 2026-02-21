@@ -12,3 +12,6 @@ The objective of this project is to analyze customer purchasing behavior using e
  6. Provide actionable business insights to improve customer engagement and revenue
  
 This analysis aims to support data-driven decision-making for marketing, product recommendations, and customer retention strategies.
+
+## e-bay Raw Dataset Used :
+- <a href="https://github.com/laganmehra875/Market-Basket-Analysis-with-Python---eBay/blob/main/eBay.csv"> Raw Dataset used :e-bay
