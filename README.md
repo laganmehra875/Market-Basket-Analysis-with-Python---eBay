@@ -67,12 +67,12 @@ This analysis aims to support data-driven decision-making for marketing, product
 - Offer free shipping above a minimum order value
 - Provide limited-time shipping discounts
 - Show price comparison guarantees
-##### **This directly addresses the biggest abandonment factor.**
+##### *This directly addresses the biggest abandonment factor.*
 ### ✅ 2. Improve Personalized Recommendation System
 - Use browsing history and purchase history for better suggestions
 - Increase transparency in how recommendations are generated
 - Display “Customers also bought” bundles
-##### **This can improve engagement and satisfaction.**
+##### *This can improve engagement and satisfaction.*
 ### ✅ 3. Implement Customer Segmentation Strategy
 - Use clusters for targeted campaigns:
 - High engagement customers → Loyalty rewards & premium offers
@@ -82,10 +82,10 @@ This analysis aims to support data-driven decision-making for marketing, product
 - Highlight verified buyer reviews
 - Improve rating accuracy filters
 - Promote helpful reviews
-##### **This builds long-term trust.**
+##### *This builds long-term trust.*
 ### ✅ 5. Cross-Selling & Bundling Strategy
 - Since customers buy multiple category combinations:
 - Create combo offers
 - Suggest complementary products
 - Promote frequently bought together items
-##### **This can increase revenue per transaction.**
+##### *This can increase revenue per transaction.*
