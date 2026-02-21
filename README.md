@@ -58,3 +58,5 @@ This analysis aims to support data-driven decision-making for marketing, product
 - Moderate engagement group
 - Low engagement group
 #### 👉 Insight: Customers behave differently and require targeted marketing strategies.
+
+- Jupyter LAB PDF Presentation :<a href="https://github.com/laganmehra875/Market-Basket-Analysis-with-Python---eBay/blob/main/ebay%20project%E2%80%A6%20-%20JupyterLab.pdf"> e-bay Presentation
