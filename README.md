@@ -36,18 +36,18 @@ This analysis aims to support data-driven decision-making for marketing, product
 - Groceries & Gourmet Food
 - Home & Kitchen
 - Several customers purchase combinations of categories, indicating cross-selling opportunities.
-👉 Insight: Category bundling strategies can increase average order value.
+#### 👉 Insight: Category bundling strategies can increase average order value.
 ### 3️⃣ Cart Abandonment Insights
 - Top reasons for cart abandonment:
 - High shipping costs (most common)
 - Changed mind
 - Found a better price elsewhere
-👉 Insight: Shipping cost is the biggest barrier to purchase completion.
+#### 👉 Insight: Shipping cost is the biggest barrier to purchase completion.
 ### 4️⃣ Shopping Satisfaction Analysis
 - Average shopping satisfaction is around 3 out of 5 (moderate level).
 - Rating accuracy and review importance show weak correlation with satisfaction.
 - Customers moderately trust personalized recommendations.
-👉 Insight: The recommendation system has room for improvement.
+#### 👉 Insight: The recommendation system has room for improvement.
 ### 5️⃣ Customer Segmentation (K-Means Clustering)
 - Using clustering on:
 - Shopping Satisfaction
@@ -57,4 +57,4 @@ This analysis aims to support data-driven decision-making for marketing, product
 - High engagement group
 - Moderate engagement group
 - Low engagement group
-👉 Insight: Customers behave differently and require targeted marketing strategies.
+#### 👉 Insight: Customers behave differently and require targeted marketing strategies.
