@@ -20,3 +20,4 @@ This analysis aims to support data-driven decision-making for marketing, product
 - <a href="https://github.com/laganmehra875/Market-Basket-Analysis-with-Python---eBay/blob/main/Market_Basket_Analysis_Project_Clean_Version.pdf"> Task Files used :e-bay
 
 ## e-bay Project jupyter file :
+- <a href="http://github.com/laganmehra875/Market-Basket-Analysis-with-Python---eBay/blob/main/ebay%20project%206.ipynb"> e-bay Python Project
